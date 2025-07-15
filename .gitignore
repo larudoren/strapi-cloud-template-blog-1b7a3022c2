@@ -22,6 +22,10 @@ Icon
 # Windows
 ############################
 
+Dockerfile
+.dockerignore
+docker-compose.yml
+.env
 Thumbs.db
 ehthumbs.db
 Desktop.ini
